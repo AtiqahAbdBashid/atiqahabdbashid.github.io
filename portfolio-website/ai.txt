@@ -1,0 +1,18 @@
+# ai.txt
+User-agent: *
+allow: false
+
+User-agent: Googlebot
+allow: true
+
+User-agent: Bingbot
+allow: true
+
+User-agent: GPTBot
+allow: false
+
+User-agent: ClaudeBot
+allow: false
+
+User-agent: Google-Extended
+allow: false

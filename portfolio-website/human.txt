@@ -1,0 +1,13 @@
+/* TEAM */
+    Full Name: Atiqah Bashid
+    Title: AI Software Engineer & Fullstack Web Developer
+    Email: atiqahabdbashid@gmail.com
+    LinkedIn: https://my.linkedin.com/in/atiqahbashid
+    GitHub: https://github.com/AtiqahAbdBashid
+    Location: Kuala Lumpur, Malaysia
+
+/* SITE */
+    Last Update: 2026/08/19
+    Language: English
+    Technologies: HTML5, CSS3, JavaScript, React, Next.js, Node.js, Python
+    Hosting: Vercel
